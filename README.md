@@ -27,6 +27,9 @@ requests.post(url,data=json.dumps(data),headers=headers)
   app.py --> main.py --> GitHub-API --> Stored in GitHub
 ```
 
+## GitHub-API-Client user is just for setting up the repo and is no longer involved in this repo
+## [@D4RKH0R1Z0N](https://github.com/D4RKH0R1Z0N) and GitHub-API-Client user are the same person :)
+
 ### Create your token by going to Setting's > Developer settings > Personal Access Token > Generate New Token
 #### Set never expire, click repo all permissions then copy paste to main.py
 
